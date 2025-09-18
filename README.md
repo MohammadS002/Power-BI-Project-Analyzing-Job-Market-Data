@@ -1,0 +1,1 @@
+An in-depth analysis of job market trends (2017–2021), highlighting job levels, skills in demand (SQL, Python, Cloud, ML), years of experience, industries, and salary benchmarks across roles and companies.
